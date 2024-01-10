@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+I Augustika,has created this simple project over the application of useState hook in react.
+I learned some interesting features like
+- how to toggle using a button
+-used math.randomn to render a randomns component
+- #augustikapal learned something new
 ## Available Scripts
 
 In the project directory, you can run:
